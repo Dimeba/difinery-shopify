@@ -10,7 +10,7 @@ export const metadata = {
 };
 
 export default async function HomePage() {
-  console.log('test');
+  console.log('test 2');
 
   return (
     <>
